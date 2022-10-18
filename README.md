@@ -7,7 +7,7 @@
 
 ## Project 
 
-[Deno crash course](/gK305tbfTqWXGjntf2jWQA)
+[Deno crash course](https://hackmd.io/@meowhecker/B1Mus3ZGo)
 
 [Deno & PostgreSQL](/dhFLqdE7SpS25rV1KD88BQ)
 
